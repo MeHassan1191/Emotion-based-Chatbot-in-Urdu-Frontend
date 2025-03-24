@@ -1,16 +1,16 @@
-# urdu_chatbot
+# Emotion-Based Chatbot (Urdu) - Backend  
 
-FYP.
+This is the **Python-based backend** for the **Emotion-Based Chatbot in Urdu**, responsible for processing messages, detecting emotions, and generating responses.  
 
-## Getting Started
+## 🛠 Features  
+- Natural Language Processing (NLP)  
+- Emotion Classification (Happy, Sad, Angry, etc.)  
+- Response Generation using LSTM  
+- REST API for Frontend Communication  
 
-This project is a starting point for a Flutter application.
+## 🏗 Tech Stack  
+- **Language:** Python  
+- **Framework:** Flask / FastAPI / Django  
+- **ML Model:** LSTM (Trained on Urdu dataset)  
+- **Database:** SQLite  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
